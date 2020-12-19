@@ -1,10 +1,10 @@
-package com.flipkart.test;
+package com.paradox.geek;
 
-import com.flipkart.test.model.Genre;
-import com.flipkart.test.model.UserLevel;
-import com.flipkart.test.services.MovieService;
-import com.flipkart.test.services.ReviewService;
-import com.flipkart.test.services.UserService;
+import com.paradox.geek.model.Genre;
+import com.paradox.geek.model.UserLevel;
+import com.paradox.geek.services.MovieService;
+import com.paradox.geek.services.ReviewService;
+import com.paradox.geek.services.UserService;
 
 import java.util.Arrays;
 

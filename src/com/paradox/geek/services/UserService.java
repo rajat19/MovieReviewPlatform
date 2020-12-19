@@ -1,7 +1,7 @@
-package com.flipkart.test.services;
+package com.paradox.geek.services;
 
-import com.flipkart.test.model.User;
-import com.flipkart.test.model.UserLevel;
+import com.paradox.geek.model.User;
+import com.paradox.geek.model.UserLevel;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,6 +1,7 @@
-package com.flipkart.test.services;
+package com.paradox.geek.services;
 
 import com.flipkart.test.model.*;
+import com.paradox.geek.model.*;
 
 import java.util.*;
 import java.util.stream.Collectors;

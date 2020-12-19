@@ -1,9 +1,8 @@
-package com.flipkart.test.services;
+package com.paradox.geek.services;
 
-import com.flipkart.test.model.Genre;
-import com.flipkart.test.model.Movie;
+import com.paradox.geek.model.Genre;
+import com.paradox.geek.model.Movie;
 
-import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

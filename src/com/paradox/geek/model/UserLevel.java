@@ -1,4 +1,4 @@
-package com.flipkart.test.model;
+package com.paradox.geek.model;
 
 public enum UserLevel {
     VIEWER("viewer", 3, 1),

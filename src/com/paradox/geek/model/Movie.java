@@ -1,4 +1,4 @@
-package com.flipkart.test.model;
+package com.paradox.geek.model;
 
 import java.util.List;
 
